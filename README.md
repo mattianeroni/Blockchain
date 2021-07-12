@@ -1,2 +1,2 @@
 # Blockchain
-A blockchain from scratch in Python using Flask framework
+The toy implementation of a blockchain from scratch in Python using Flask framework
